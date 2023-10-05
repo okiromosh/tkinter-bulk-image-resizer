@@ -1,0 +1,1 @@
+# tkinter-bulk-image-resizer
